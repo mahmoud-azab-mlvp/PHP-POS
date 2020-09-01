@@ -1,0 +1,2 @@
+http://localhost/src/exp/faizan/myPos/dashboard_admin.php
+https://fontawesome.com/v4.7.0/icons/
